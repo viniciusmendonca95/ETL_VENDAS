@@ -1,3 +1,3 @@
-@@tabelas.plb;
-@@inserts.plb;
+@@tabelas_vendas.plb;
+@@inserts_vendas.plb;
 
